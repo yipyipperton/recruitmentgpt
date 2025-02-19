@@ -1,1 +1,1 @@
-# recruitmentgpt
+This is a Recruitment Bot that takes the input of a batch of resumes and with those resumes it generates a shortlist. On top of this, it will give you a shortlist in TSV format or Nginx style so yo can bring it on to Google Sheets and with the help of Google Apps Scripts you can automate the outreach for the shortlisted candidates that the GPT has produced. It is essential that you clearly define your requirments so that you do not have to have a back and forth with the AI itself.
